@@ -1,0 +1,87 @@
+
+.logo{
+    margin:0;
+}
+.p1{
+    text-align:left;
+    margin-top:20px;
+}
+hr{ margin-top:60px;
+    border:5px solid #0f2e03;
+}
+.p5{
+    max-width:200px;
+    min-width:200px;
+    min-height:200px;
+    max-height:200px;
+    border-radius:30px;
+
+}
+.sertificate{
+    max-width:200px;
+    min-width:200px;
+    min-height:300px;
+    max-height:300px;
+    border-radius:15px;
+    box-shadow:5px 5px black;
+    background:#edcf74;
+    position:relative;
+    float:left;
+    margin-right:15px;
+    margin-bottom:15px;
+
+}
+.container>p{
+
+    max-width:650px;
+    min-width:520px;
+
+
+}
+.container>form{
+    max-width:200px;
+    min-width:200px;
+    min-height:270px;
+    max-height:270px;
+    background:#004b00;
+    text-align:center;
+    border-radius:10px;
+    box-shadow:5px 5px black;
+}
+textarea{
+    min-width:190px;
+    max-width:190px;
+    min-height:150px;
+    max-height:150px;
+    margin-left:-10px;
+    margin-top:5px;
+    border-radius:5px;
+    margin-bottom:5px;
+    padding:10px;
+}
+.container>form>input{
+    margin:5px;
+    width:190px;
+    margin-left:-10px;
+    border-radius:5px;
+    padding-left:5px;
+}
+.mybtn{
+    width:100px;
+    margin-top:5px;
+    border-radius:5px;
+    box-shadow:1px 4px black;
+}
+
+.footer>img{
+    margin:0p;
+    max-height:30px;
+    display:inline;
+}
+.footer{
+    color: white;
+    text-align: center;
+    background-image: url("../images/btn_bg.png");
+    background-repeat: repeat;
+    margin-top: 50px;
+}
