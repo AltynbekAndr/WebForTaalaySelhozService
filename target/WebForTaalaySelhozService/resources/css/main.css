@@ -14,7 +14,8 @@ hr{ margin-top:60px;
     min-width:200px;
     min-height:200px;
     max-height:200px;
-    border-radius:30px;
+    position:relative;
+    top:-150px;
 
 }
 .sertificate{
@@ -32,7 +33,7 @@ hr{ margin-top:60px;
 
 }
 .container>p{
-
+    float:left;
     max-width:650px;
     min-width:520px;
 
